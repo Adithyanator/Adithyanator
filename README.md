@@ -67,7 +67,7 @@ Git • GitHub • VS Code • MATLAB
 ---
 
 ## 🤝 Connect with Me
-- 🔗 LinkedIn: (add your link)
+- 🔗 LinkedIn: www.linkedin.com/in/adithyanator
 - 💻 GitHub: https://github.com/Adithyanator
 
 ---
